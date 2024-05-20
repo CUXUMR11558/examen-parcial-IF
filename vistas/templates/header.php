@@ -13,5 +13,13 @@
 
 <body>
 
+<?php include_once 'navbar.php'; ?>
+
+
+
+
+
+
+
 <div class="p-5">
 

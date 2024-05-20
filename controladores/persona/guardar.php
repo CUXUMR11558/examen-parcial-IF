@@ -9,7 +9,7 @@
     // VALIDAR INFORMACION
     $_POST['per_nombre'] = htmlspecialchars( $_POST['per_nombre']);
     $_POST['per_apellido'] = htmlspecialchars( $_POST['per_apellido']);
-    $_POST['per_procedencia'] = htmlspecialchars( $_POST['per_precedencia']);
+    $_POST['per_procedencia'] = htmlspecialchars( $_POST['per_procedencia']);
     $_POST['per_fechain'] = htmlspecialchars( $_POST['per_fechain']);
     $_POST['per_fechasal'] = htmlspecialchars( $_POST['per_fechasal']);
     $_POST['per_razon'] = htmlspecialchars( $_POST['per_razon']);
@@ -63,7 +63,7 @@
     </div>
     <div class="row justify-content-center">
         <div class="col-lg-6">
-            <a href="../../vistas/persona/index.php" class="btn btn-primary w-100">Volver al formulario</a>
+            <a href="../../vistas/personas/index.php" class="btn btn-primary w-100">Volver al formulario</a>
         </div>
     </div>
 

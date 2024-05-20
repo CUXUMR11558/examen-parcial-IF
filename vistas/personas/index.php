@@ -33,7 +33,7 @@
         <div class="row mb-3">
             <div class="col">
                 <label for="per_nombre">fecha y hora de salida</label>
-                <input type="text" name="per_fechasal" id="per_fechasal" class="form-control" required>
+                <input type="text" name="per_fechasal" id="per_fechasal" class="form-control" require>
             </div>
         </div>
         <div class="row mb-3">
