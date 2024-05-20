@@ -11,7 +11,7 @@
 
 
 <div class="row justify-content-center">
-    <form action="/controladores/guardar.php" method="POST" class="border bg-light shadow rounded p-4 col-lg-6">
+    <form action="/controladores/persona/guardar.php" method="POST" class="border bg-light shadow rounded p-4 col-lg-6">
         <div class="row mb-3">
             <div class="col">
                 <label for="per_nombre">Nombre de la persona</label>
